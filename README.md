@@ -71,18 +71,11 @@ To get started with our stock prediction project, follow these steps:
 2. Install the required Python dependencies as specified in the README, and you're ready to begin exploring and utilizing the stock prediction model.
 ### Prerequisites
  Ensure you have Python 3.x installed and the necessary libraries, such as NumPy, Pandas, and TensorFlow, are set up according to the provided instructions in the README before running the stock prediction models.
-* pandas
-  ```sh
-  pip install pandas
-  ```
-* numpy
-    ```sh
-  pip install numpy
-  ```
-* matplotlib
-  ```sh
-  pip install matplotlib
-  ```
+*Install the requirements.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+
 ### Installation
 
  Here's a self-contained installation guide for our app, eliminating the need for external dependencies or services.
@@ -95,10 +88,10 @@ To get started with our stock prediction project, follow these steps:
    ```sh
    cd StockPrediction
    ```
-3. Run the Python File:
-   ```js
-   python Stockprediction.py
-   ```
+3. Run the Jupyter Notebook File (StockPrediction.ipynb).
+4.In your web browser, navigate to the notebook file and open it.
+5.Follow the instructions in the Jupyter Notebook to train the LSTM model, make predictions, and evaluate its performance.
+6.You can also visualize model predictions and explore usage examples within the Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
