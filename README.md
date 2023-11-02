@@ -90,8 +90,11 @@ To get started with our stock prediction project, follow these steps:
    cd StockPrediction
    ```
 3. Run the Jupyter Notebook File (StockPrediction.ipynb).
+   
 4.In your web browser, navigate to the notebook file and open it.
+
 5.Follow the instructions in the Jupyter Notebook to train the LSTM model, make predictions, and evaluate its performance.
+
 6.You can also visualize model predictions and explore usage examples within the Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
