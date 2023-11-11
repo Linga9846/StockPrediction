@@ -72,8 +72,7 @@ To get started with our stock prediction project, follow these steps:
 2. Install the required Python dependencies as specified in the README, and you're ready to begin exploring and utilizing the stock prediction model.
 ### Prerequisites
  Ensure you have Python 3.x installed and the necessary libraries, such as NumPy, Pandas, and TensorFlow, are set up according to the provided instructions in the README before running the stock prediction models.
- 
-* Install the requirements.txt file
+* Install the requirements.txt file 
    ```sh
    pip install -r requirements.txt
    ```
